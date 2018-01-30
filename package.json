@@ -1,0 +1,23 @@
+{
+  "name": "justairlines",
+  "version": "1.0.0",
+  "description": "sample project to learn react and redux",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soniajains/sampleRepo.git"
+  },
+  "author": "Sonia, Nithya, Anushree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soniajains/sampleRepo/issues"
+  },
+  "homepage": "https://github.com/soniajains/sampleRepo#readme"
+}
