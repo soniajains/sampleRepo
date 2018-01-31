@@ -1,11 +1,14 @@
-import React from 'react';
-import Header from './components/header.js'
-
-export default class LandingPage extends React.Component {
+import React, {Component} from 'react';
+import Header from './components/header.js';
+import LeftNavigation from './components/LeftNavigation.js';
+import RightNavigation from './components/RightNavigation.js';
+export default class LandingPage extends Component {
   render() {
-    return ( <div>
+    return (
+      <div>
       <Header></Header>
-        Test
-      </div> )
+      <LeftNavigation></LeftNavigation>
+      <RightNavigation></RightNavigation>
+      </div> );
   }
 }
