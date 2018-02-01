@@ -1,16 +1,16 @@
-.Header {
+html, body  {
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+.header {
     height: 60px;
     font-size: 40px;
     text-align: center;
     padding-top: 2px;
     background-color: gold;
 }
-html, body  {
-    margin: 0px;
-    width: 100%;
-    height: 100%;
-}
-
 .sidenav {
     height: 100%;
     width: 10%;

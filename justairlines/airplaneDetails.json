@@ -1,5 +1,4 @@
-{
-  "spice jet" : {
+[{
     "name": "Spice jet",
     "destination_city": "Chennai",
     "arrival_city": "Delhi",
@@ -7,7 +6,7 @@
     "arrival_time": "11.30 PM",
     "bording_date": "every day"
   },
-    "indigo" : {
+  {
       "name": "Indogo",
       "destination_city": "Kochi",
       "arrival_city": "Chennai",
@@ -16,7 +15,7 @@
       "bording_date": "11-12-2018",
       "arrival date": "11-12-2018"
     },
-  "vistara" : {
+   {
     "name": "Vistara",
     "destination_city": "Chennai",
     "arrival_city": "Dubai",
@@ -25,7 +24,7 @@
     "bording_date": "11-12-2018",
     "arrival date": "11-12-2018"
   },
-  "king fisher" : {
+ {
     "name": "King fisher",
     "destination_city": "Dubai",
     "arrival_city": "Chennai",
@@ -34,4 +33,4 @@
     "bording_date": "13-12-2018",
     "arrival date": "13-12-2018"
   }
-}
+]
